@@ -1,4 +1,7 @@
 rightside hitter
 blocker
 setter
+outer hitter
+libero
+blocker
 etc
